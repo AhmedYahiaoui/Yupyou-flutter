@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31464810214",
+    "firebase_url": "https://pfe-project-notif.firebaseio.com",
+    "project_id": "pfe-project-notif",
+    "storage_bucket": "pfe-project-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31464810214:android:50e3bd511240ea8a09bd27",
+        "android_client_info": {
+          "package_name": "com.example.front_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31464810214-3k9t0jususoddcmkqav8jln7l3loerpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWSbNli9w1KDhqGimXh8nvvwdA1K0t990"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31464810214-3k9t0jususoddcmkqav8jln7l3loerpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
