@@ -4,22 +4,20 @@
   <tr>
     <td>Login Screen </td>
      <td>Register Screen</td>
-     <td>Dashboard page</td>
+     <td>Add Devices</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/38189044/184549526-583b8191-5dec-4d45-aeda-fbcd2abccf9c.jpg" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/38189044/184549540-2f73084c-fa0d-4233-b2b4-773bd757fd15.jpg" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/38189044/184549503-3c8dcce4-6d6f-4605-a345-021f22c12363.jpg" width=270 height=700></td>
+    <td><img src="https://user-images.githubusercontent.com/38189044/184549596-7102640b-37ed-4352-a670-87f5c78a0e02.jpg" width=260 height=480></td>
   </tr>
   
   <tr>
-    <td>Add Devices</td>
     <td>Devices Screen (List)</td>
     <td>Device Screen ( device informations - Device : Device 3 )</td>
     <td>Device Screen ( more informations - slide panel)</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/38189044/184549596-7102640b-37ed-4352-a670-87f5c78a0e02.jpg" width=260 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/38189044/184549545-e83dafe4-38cd-4a33-98d2-cd56e14a3818.jpg" width=260 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/38189044/184549553-2669dfe1-6c42-4d7e-9729-d92e5642df89.jpg" width=260 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/38189044/184549554-f207e0bb-f4cf-46c7-9872-91f216eaa05e.jpg" width=260 height=480></td>
@@ -36,11 +34,6 @@
     <td><img src="https://user-images.githubusercontent.com/38189044/184549569-5f2c790d-e842-40ba-b71f-33f8b35acc61.jpg" width=270 height=480></td>
   </tr>
   
-  
-  
-  
-  
-  
   <tr>
     <td>Profile Screen </td>
     <td>Profile Screen ( dive into settings )</td>
@@ -53,3 +46,4 @@
   </tr>  
   
  </table>
+    <td><img src="https://user-images.githubusercontent.com/38189044/184549503-3c8dcce4-6d6f-4605-a345-021f22c12363.jpg" width=270 height=700></td>
