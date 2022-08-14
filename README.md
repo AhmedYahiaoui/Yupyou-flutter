@@ -1,9 +1,30 @@
 # YUPYOU flutter app
-![123768504_693648891266955_8650952532973283170_n](https://user-images.githubusercontent.com/38189044/184549526-583b8191-5dec-4d45-aeda-fbcd2abccf9c.jpg)
 
-![123796429_282206393075097_5859326460285840744_n](https://user-images.githubusercontent.com/38189044/184549540-2f73084c-fa0d-4233-b2b4-773bd757fd15.jpg)
+<table>
+  <tr>
+    <td>Login Screen </td>
+     <td>Register Screen</td>
+     <td>Dashboard page</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/38189044/184549526-583b8191-5dec-4d45-aeda-fbcd2abccf9c.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/38189044/184549540-2f73084c-fa0d-4233-b2b4-773bd757fd15.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/38189044/184549503-3c8dcce4-6d6f-4605-a345-021f22c12363.jpg" width=270 height=500></td>
+  </tr>
+  
+  <tr>
+    <td>Login Screen </td>
+    <td>Register Screen</td>
+    <td>Dashboard page</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/38189044/184549526-583b8191-5dec-4d45-aeda-fbcd2abccf9c.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/38189044/184549540-2f73084c-fa0d-4233-b2b4-773bd757fd15.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/38189044/184549503-3c8dcce4-6d6f-4605-a345-021f22c12363.jpg" width=270 height=500></td>
+  </tr>
+  
+ </table>
 
-![123801451_1438957619641459_2277995053247459473_n](https://user-images.githubusercontent.com/38189044/184549503-3c8dcce4-6d6f-4605-a345-021f22c12363.jpg)
 
 ![123798166_410115266676326_4045535450805338561_n](https://user-images.githubusercontent.com/38189044/184549545-e83dafe4-38cd-4a33-98d2-cd56e14a3818.jpg)
 
